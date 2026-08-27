@@ -51,7 +51,7 @@ Das gilt im Stand genauso wie in Bewegung. Es ist der Puls, in dem die ganze Kap
 | Musik – **ZUG!** | Mu-sik | linken Fuß beiziehen |
 | Rechts richt' – **EUCH!** | Rechts richt | Kopf nach rechts *(1. Reihe: geradeaus)* |
 | Habt – **ACHT!** | Habt | Blick geradeaus / Grundstellung |
-| Rechts – **SCHAUT!** | Rechts | Kopf zum Empfänger |
+| Recht – **SCHAUT!** | Rechts | Kopf zum Empfänger |
 | Musik – **RUHT!** | Mu-sik | linker Fuß halblinks vor |
 
 ### UND — Zack! — Appellschritt · anheben auf 2, aufsetzen auf 1
