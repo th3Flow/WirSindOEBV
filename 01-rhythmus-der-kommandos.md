@@ -11,16 +11,31 @@ Das ist kein Drill, das ist Rhythmus. Und Rhythmus können wir. Wir zählen seit
 **Das Beste daran:** Das übt jeder daheim. Ohne Instrument, ohne Kapelle. Zehn Minuten und ein Metronom.
 
 **Ziel:** Ein Kommando, ein Geräusch.
-**Hausübung:** Metronom **♩ = 108**.
+**Hausübung:** Metronom **♩ = 108**. Ein Klick = ein Schritt.
+
+---
+
+## Alla breve — zwei Zählzeiten pro Takt
+
+Kommandos werden **alla breve** gezählt: **zwei Zählzeiten pro Takt.**
+
+> ### Die **Eins** ist immer der **linke** Fuß. Die **Zwei** ist der **rechte**.
+
+Das gilt im Stand genauso wie in Bewegung. Es ist der Puls, in dem die ganze Kapelle lebt.
+
+**Das Ausführungswort fällt immer auf eine Eins.**
 
 ---
 
 ## Die Regel
 
-| | Timing |
-|---|---|
-| **Wir bleiben am Platz** | direkt auf die **Folgezählzeit** |
-| **Wir gehen los** (Appellschritt) | eine Zählzeit später: **„UND — Zack!"** |
+| | Auf **2** | Auf **1** danach |
+|---|---|---|
+| **Wir bleiben am Platz** | **Ausführung** | — |
+| **Wir gehen los** (Appellschritt) | linken Fuß **anheben** = *UND* | Fuß **aufsetzen** = *ZACK* |
+
+> Das „und" ist keine Wartezeit. Auf der Zwei hebst du bereits den Fuß.
+> **UND = anheben. ZACK = aufsetzen.**
 
 > Nur drei Kommandos sind „Losgehen": **ANTRETEN · MARSCH · ABTRETEN.**
 > Genau die drei, für die der ÖBV den Appellschritt vorsieht. Alles andere ist direkt.
@@ -29,23 +44,23 @@ Das ist kein Drill, das ist Rhythmus. Und Rhythmus können wir. Wir zählen seit
 
 ## Alle Kommandos
 
-### Direkt — am Platz
+### Direkt — am Platz · Ausführung auf 2
 
-| Kommando | Ankündigung | Auf ▲ |
+| Kommando | Ankündigung | Ausführung auf 2 |
 |---|---|---|
-| Musik – **ZUG!** | Mu-siiik | linken Fuß beiziehen |
-| Rechts richt' – **EUCH!** | Rechts-richt—— | Kopf nach rechts *(1. Reihe: geradeaus)* |
-| Habt – **ACHT!** | Haaa—bt | Blick geradeaus / Grundstellung |
-| Zur Meldung … – **SCHAUT!** | Zur Meldung an … | Kopf zum Empfänger |
-| Musik – **RUHT!** | Mu-siiik | linker Fuß halblinks vor |
+| Musik – **ZUG!** | Mu-sik | linken Fuß beiziehen |
+| Rechts richt' – **EUCH!** | Rechts richt | Kopf nach rechts *(1. Reihe: geradeaus)* |
+| Habt – **ACHT!** | Habt | Blick geradeaus / Grundstellung |
+| Rechts – **SCHAUT!** | Rechts | Kopf zum Empfänger |
+| Musik – **RUHT!** | Mu-sik | linker Fuß halblinks vor |
 
-### UND — Zack! — Appellschritt
+### UND — Zack! — Appellschritt · anheben auf 2, aufsetzen auf 1
 
-| Kommando | Ankündigung | Auf ▲ |
+| Kommando | Ankündigung | Dann |
 |---|---|---|
-| Fünferreihe – **ANTRETEN!** | Fün-fer-Rei-heee | Appellschritt, in die Einteilung |
-| Im Schritt – **MARSCH!** | Im Schriiit | linker Fuß tritt |
-| Auf der Stelle – **ABTRETEN!** | Auf der Stelle | Appellschritt, Formation löst sich |
+| Fünferreihe – **ANTRETEN!** | Fün-fer Rei-he | Appellschritt, in die Einteilung |
+| Im Schritt – **MARSCH!** | Im Schritt | linker Fuß tritt, es geht los |
+| Auf der Stelle – **ABTRETEN!** | Auf der Ste-le | Appellschritt, Formation löst sich |
 
 ### Ohne Rhythmus
 
@@ -59,8 +74,8 @@ Das ist kein Drill, das ist Rhythmus. Und Rhythmus können wir. Wir zählen seit
 
 ## Die Zählzeiten
 
-**So liest du die Raster:** `SF` = Stabführer · `DU` = wir · `▲` = jetzt bewegen · `·` = nichts tun.
-Metronom auf 108, jede Zahl ein Klick. Ankündigung im ersten Takt, Ausführungswort auf die Eins des zweiten.
+**So liest du die Raster:** `SF` = Stabführer · `DU` = wir · `▲` = Ausführung · `·` = nichts tun.
+Zwei Zählzeiten pro Takt. Metronom auf 108, jede Zahl ein Klick.
 
 ---
 
@@ -69,46 +84,48 @@ Metronom auf 108, jede Zahl ein Klick. Ankündigung im ersten Takt, Ausführungs
 #### Musik – ZUG!
 
 ```
-ZZ:  1      2      3      4      |  1      2      3      4
-SF:  ·      Mu-  siiik   ZUG!    |  ·      ·      ·      ·
-DU:  ·      ·      ·      ·      |  ▲      ·      ·      ·
+Takt:   |   1        2    |    1        2     |
+SF:     | Mu-sik     ·    |  ZUG!       ·     |
+DU:     |    ·       ·    |    ·        ▲     |
                                    linken Fuß beiziehen
 ```
 
 #### Rechts richt' – EUCH!
 
 ```
-ZZ:  1      2      3      4      |  1      2      3      4
-SF:  ·    Rechts riiicht EUCH!   |  ·      ·      ·      ·
-DU:  ·      ·      ·      ·      |  ▲      ·      ·      ·
+Takt:   |   1        2    |    1        2     |
+SF:     | Rechts   richt  |  EUCH!      ·     |
+DU:     |    ·       ·    |    ·        ▲     |
                                    Kopf nach rechts
 ```
 
 #### Habt – ACHT!
 
 ```
-ZZ:  1      2      3      4      |  1      2      3      4
-SF:  ·     Haaa-   bt    ACHT!   |  ·      ·      ·      ·
-DU:  ·      ·      ·      ·      |  ▲      ·      ·      ·
-                                    Blick geradeaus
+Takt:   |   1        2    |    1        2     |
+SF:     |  Habt      ·    |  ACHT!      ·     |
+DU:     |    ·       ·    |    ·        ▲     |
+                                   Blick geradeaus
 ```
 
-#### Zur Meldung … – SCHAUT!
+#### Recht – SCHAUT!
 
 ```
-ZZ:                | 1      2      3      4      |  1      2      3      4
-SF:  Zur Meldung   | ·    Reee    cht   SCHAUT   |  ·      ·      ·      ·
-DU:                | ·      ·      ·      ·      |  ▲      ·      ·      ·
-                                                    Kopf zum Empfänger
+Takt:   |   1        2    |    1        2     |
+SF:     | Recht      ·    | SCHAUT!     ·     |
+DU:     |    ·       ·    |    ·        ▲     |
+                                   Kopf zum Empfänger
 ```
+
+*Bei der vollen Form „Zur Meldung an … rechts – SCHAUT!" wird der Ankündigungsteil entsprechend länger. Das Ausführungswort bleibt auf der Eins, die Ausführung auf der Zwei.*
 
 #### Musik – RUHT!
 
 ```
-ZZ:  1      2      3      4      |  1      2      3      4
-SF:  ·    Mu-    siiik   RUHT!   |  ·      ·      ·      ·
-DU:  ·      ·      ·      ·      |  ▲      ·      ·      ·
-                                    linker Fuß halblinks vor
+Takt:   |   1        2    |    1        2     |
+SF:     | Mu-sik     ·    |  RUHT!      ·     |
+DU:     |    ·       ·    |    ·        ▲     |
+                                   linker Fuß halblinks vor
 ```
 
 ---
@@ -118,28 +135,33 @@ DU:  ·      ·      ·      ·      |  ▲      ·      ·      ·
 #### Fünferreihe – ANTRETEN!
 
 ```
-ZZ:  1          2          3          4      |  1      2      3      4
-SF:  ·       Fünfer-Rei - heee    ANTRETEN!  |  ·      ·      ·      ·
-DU:  ·          ·          ·          ·      | und     ▲      ·      ·
-                                                     Appellschritt
+Takt:   |    1         2     |     1          2       |     1        2   |
+SF:     | Fün-fer   Rei-he   | an-tre-ten     ·       |     ·        ·   |
+DU:     |    ·         ·     |     ·      linken Fuß  |   Fuß        ·   |
+        |                    |             anheben    | aufsetzen        |
+                                             UND          ZACK
 ```
 
 #### Im Schritt – MARSCH!
 
 ```
-ZZ:  1      2      3      4      |  1      2      3      4
-SF:  Im  Schriiit  ·    MARSCH!  |  ·      ·      ·      ·
-DU:  ·      ·      ·      ·      | und     ▲      ·      ·
-                                        linker Fuß tritt
+Takt:   |    1         2     |     1          2       |     1        2   |
+SF:     |   Im      Schritt  |  MARSCH!       ·       |     ·        ·   |
+DU:     |    ·         ·     |     ·      linken Fuß  |   Fuß        ·   |
+        |                    |             anheben    | aufsetzen        |
+                                             UND          ZACK
 ```
+
+Ab hier läuft der Marschschritt weiter: **1 = links, 2 = rechts.**
 
 #### Auf der Stelle – ABTRETEN!
 
 ```
-ZZ:  1          2          3          4      |  1      2      3      4
-SF:  ·      Auf-der-Stelle -ee    ABTRETEN!  |  ·      ·      ·      ·
-DU:  ·          ·          ·          ·      | und     ▲      ·      ·
-                                                     Appellschritt
+Takt:   |    1         2     |     1          2       |     1        2   |
+SF:     | Auf der   Ste-le   | ab-tre-ten     ·       |     ·        ·   |
+DU:     |    ·         ·     |     ·      linken Fuß  |   Fuß        ·   |
+        |                    |             anheben    | aufsetzen        |
+                                             UND          ZACK
 ```
 
 ---
@@ -147,26 +169,27 @@ DU:  ·          ·          ·          ·      | und     ▲      ·      ·
 ### Aufdecken!
 
 ```
-ZZ:  1           2      3      4
-SF:  AUFdecken!  ·      ·      ·
-DU:  ·           →  Reihen ruhig ausrichten  →
+Takt:   |     1          2    |
+SF:     | AUFdecken!     ·    |
+DU:     |     ·    →  Reihen ruhig ausrichten  →
 ```
 
 Kein Ankündigungsteil, kein Schlag. Warte nicht auf ein Aviso — es kommt keines.
 
 ---
 
-### Kommandiertes „Musik – HALT!" *(ÖBV-Vorschrift, fünf Zählzeiten)*
+### Musik – HALT! *(ÖBV-Vorschrift, fünf Zählzeiten)*
 
 ```
-ZZ:   1        2       3       4       5        6        7
-Fuß: LINKS   rechts  links  rechts   LINKS    rechts    LINKS
-SF:  "Musik-"  ·       ·       ·    "HALT!"     ·         ·
-DU:    ·       ·       ·       ·       ·      halber    Fuß bei-
-                                              Schritt    ziehen
+Takt:   |    1        2    |    1        2    |     1         2      |    1       |
+Fuß:    |  LINKS    rechts |  links    rechts |   LINKS     rechts   |  LINKS     |
+Zählung |    1        2    |     3       4    |     5                |            |
+SF:     |  Mu-sik     ·    |     ·       ·    |   HALT!       ·      |    ·       |
+DU:     |    ·        ·    |     ·       ·    |     ·      halber    | linken Fuß |
+        |                  |                  |            Schritt   | beiziehen  |
 ```
 
-**„Musik –" und „HALT!" fallen beide auf den linken Fuß.** Darum die vier Zählzeiten Pause.
+**„Musik –" und „HALT!" fallen beide auf die Eins — also beide auf den linken Fuß.** Darum die vier Zählzeiten dazwischen.
 
 > In Bewegung ist der linke Fuß dein Metronom.
 
@@ -176,12 +199,12 @@ DU:    ·       ·       ·       ·       ·      halber    Fuß bei-
 
 Defilierung, Einschlagen, Schwenkung, Große Wende, Abreißen → alles über **Tambourstab und Schlagwerk**. Nicht auf Worte warten.
 
-Mehr dazu in [Kapitel 3](03-defilierung-halten-losgehen.md) und [Kapitel 4](04-abfallen-und-aufmarschieren.md).
+Mehr dazu in [Kapitel 3](03-defilierung-halten-losgehen.md), [Kapitel 4](04-abfallen-und-aufmarschieren.md), [Kapitel 5](05-die-grosse-wende.md) und [Kapitel 6](06-schwenkung.md).
 
 ---
 
+*Rhythmische Aufteilung nach der Stabführer-Schulungsnotation (alla breve).*
 *Quelle: ÖBV „Musik in Bewegung" — https://wiki.blasmusik.at/display/MIB/1.+Kommandos*
-*Verbindlich sind das HALT-Schema und das „und" bei MARSCH. Die Direkt-/Appellschritt-Systematik ist unsere Übungshilfe.*
 
 ---
 
