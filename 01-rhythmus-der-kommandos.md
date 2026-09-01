@@ -49,9 +49,9 @@ Das gilt im Stand genauso wie in Bewegung. Es ist der Puls, in dem die ganze Kap
 | Kommando | Ankündigung | Ausführung auf 2 |
 |---|---|---|
 | Musik – **ZUG!** | Mu-sik | linken Fuß beiziehen |
-| Rechts richt' – **EUCH!** | Rechts richt | Kopf nach rechts *(1. Reihe: geradeaus)* |
+| Rechts richt' – **EUCH!** | Rechts richt | Kopf nach rechts *(1. Glied: geradeaus)* |
 | Habt – **ACHT!** | Habt | Blick geradeaus / Grundstellung |
-| Recht – **SCHAUT!** | Rechts | Kopf zum Empfänger |
+| Rechts – **SCHAUT!** | Rechts | Kopf zum Empfänger |
 | Musik – **RUHT!** | Mu-sik | linker Fuß halblinks vor |
 
 ### UND — Zack! — Appellschritt · anheben auf 2, aufsetzen auf 1
@@ -112,7 +112,7 @@ DU:     |    ·       ·    |    ·        ▲     |
 
 ```
 Takt:   |   1        2    |    1        2     |
-SF:     | Recht      ·    | SCHAUT!     ·     |
+SF:     | Rechts     ·    | SCHAUT!     ·     |
 DU:     |    ·       ·    |    ·        ▲     |
                                    Kopf zum Empfänger
 ```

@@ -37,11 +37,11 @@ Der Stab wird **über der Kopfmitte nach links** gehalten. Zwei Varianten, je na
 
 **Ohne klingendes Spiel:**
 
-![Zeichen zum Abfallen ohne Spiel](https://wiki.blasmusik.at/download/attachments/9601801/image2019-1-22_19-36-46.png?version=1&modificationDate=1548182206060&api=v2)
+![Zeichen zum Abfallen ohne Spiel](img/04-zeichen-abfallen-ohne-spiel.png)
 
 **Mit klingendem Spiel:**
 
-![Zeichen zum Abfallen mit Spiel](https://wiki.blasmusik.at/download/attachments/9601801/image2019-1-22_19-37-23.png?version=1&modificationDate=1548182242803&api=v2)
+![Zeichen zum Abfallen mit Spiel](img/04-zeichen-abfallen-mit-spiel.png)
 
 > **Bei diesem Zeichen gibt es kein Aviso.** Wer nicht hinschaut, merkt nichts.
 
@@ -53,7 +53,7 @@ Der Stab wird **über der Kopfmitte nach links** gehalten. Zwei Varianten, je na
 
 Der Stabführer gibt aus der Grundstellung (1 Takt) das Zeichen und hält den Stab **4 Takte** über der Kopfmitte nach links.
 
-![Abfallen Schritt 1](https://wiki.blasmusik.at/download/attachments/9601801/3_Grafiken_Abfallen-Aufmarschieren-02.png?version=2&modificationDate=1622117945903&api=v2)
+![Abfallen Schritt 1](img/04-abfallen-1.png)
 
 **Wir:** hinschauen, weiterspielen, normal marschieren.
 
@@ -63,7 +63,7 @@ Der Stabführer gibt aus der Grundstellung (1 Takt) das Zeichen und hält den St
 
 Der Stab kommt in Grundstellung. Jetzt marschieren **alle im kurzen Schritt** — außer den **drei mittleren Reihen der 1. Linie**. Der nötige Tiefenabstand entsteht nach und nach.
 
-![Abfallen Schritt 2](https://wiki.blasmusik.at/download/attachments/9601801/3_Grafiken_Abfallen-Aufmarschieren-03.png?version=2&modificationDate=1622117947480&api=v2)
+![Abfallen Schritt 2](img/04-abfallen-2.png)
 
 ---
 
@@ -71,7 +71,7 @@ Der Stab kommt in Grundstellung. Jetzt marschieren **alle im kurzen Schritt** �
 
 Die **Flügelmusiker rücken nach und nach in die inneren Reihen** — **beginnend mit der 1. Linie**, dann Linie für Linie nach hinten.
 
-![Abfallen Schritt 3](https://wiki.blasmusik.at/download/attachments/9601801/3_Grafiken_Abfallen-Aufmarschieren-04.png?version=2&modificationDate=1622117948137&api=v2)
+![Abfallen Schritt 3](img/04-abfallen-3.png)
 
 Hat die Kapelle nur 2 Marketenderinnen, rücken sie zum Stabführer.
 
@@ -85,7 +85,7 @@ Hat die Kapelle nur 2 Marketenderinnen, rücken sie zum Stabführer.
 
 Gleiches Zeichen, gleiche vier Takte.
 
-![Aufmarschieren Schritt 1](https://wiki.blasmusik.at/download/attachments/9601801/3_Grafiken_Abfallen-Aufmarschieren-05.png?version=2&modificationDate=1622117948980&api=v2)
+![Aufmarschieren Schritt 1](img/04-aufmarschieren-1.png)
 
 ---
 
@@ -97,7 +97,7 @@ Der Stab kommt in Grundstellung. Bei klingendem Spiel wird im Takt darauf weiter
 **Flügelmusiker:** in **definierten Schritten (4, 6 oder 8)** wieder in die äußeren Reihen — **beginnend mit der 1. Linie**.
 **Alle anderen:** kurzer Schritt.
 
-![Aufmarschieren Schritt 2](https://wiki.blasmusik.at/download/attachments/9601801/image-2025-1-29_12-11-20.png?version=1&modificationDate=1738149770910&api=v2)
+![Aufmarschieren Schritt 2](img/04-aufmarschieren-2.png)
 
 > **4, 6 oder 8 Schritte — das legt unser Stabführer fest.** Diese Zahl muss jeder auswendig wissen.
 
@@ -107,7 +107,7 @@ Der Stab kommt in Grundstellung. Bei klingendem Spiel wird im Takt darauf weiter
 
 Alle Linien stellen den **ursprünglichen Tiefenabstand** wieder her.
 
-![Aufmarschieren Schritt 3](https://wiki.blasmusik.at/download/attachments/9601801/3_Grafiken_Abfallen-Aufmarschieren-07.png?version=2&modificationDate=1622117949730&api=v2)
+![Aufmarschieren Schritt 3](img/04-aufmarschieren-3.png)
 
 ---
 
@@ -115,7 +115,7 @@ Alle Linien stellen den **ursprünglichen Tiefenabstand** wieder her.
 
 Die **Große Trommel** gibt das akustische Zeichen für den Normalschritt. Im **nächsten Takt** nimmt ihn die **gesamte Formation** auf.
 
-![Aufmarschieren Schritt 4](https://wiki.blasmusik.at/download/attachments/9601801/3_Grafiken_Abfallen-Aufmarschieren-08.png?version=2&modificationDate=1622117949963&api=v2)
+![Aufmarschieren Schritt 4](img/04-aufmarschieren-4.png)
 
 > ### Das ist der letzte Knackpunkt.
 > Nicht beim Zeichen umschalten, sondern **im Takt danach** — und dann alle gemeinsam.
