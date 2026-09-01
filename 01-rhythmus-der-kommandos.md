@@ -145,11 +145,11 @@ DU:     |    ·         ·     |     ·      linken Fuß  |   Fuß        ·   |
 #### Im Schritt – MARSCH!
 
 ```
-Takt:   |    1         2     |     1          2       |     1        2   |
-SF:     |   Im      Schritt  |  MARSCH!       ·       |     ·        ·   |
-DU:     |    ·         ·     |     ·      linken Fuß  |   Fuß        ·   |
-        |                    |             anheben    | aufsetzen        |
-                                             UND          ZACK
+Takt:   |    1         2     |     1          2       |     1          2      | 
+SF:     |   Im      Schritt  |     ·       MARSCH!    |     ·          ·      |
+DU:     |    ·         ·     |     ·          ·       | linke Fuß     Fuß     |
+        |                    |                        |  anheben    aufsetzen |
+                                                           UND        ZACK  
 ```
 
 Ab hier läuft der Marschschritt weiter: **1 = links, 2 = rechts.**
