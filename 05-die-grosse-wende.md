@@ -2,104 +2,107 @@
 
 ---
 
-# Kapitel 6 — Die Schwenkung
+# Kapitel 5 — Die Große Wende
 
-Die Kapelle biegt ab, ohne die Formation zu verlieren. Sie ist in **allen Stufen** Teil der Wertung — und sie kommt bei jeder Ausrückung vor.
+Die Kapelle dreht während des Spiels um — nicht als Block, sondern Linie für Linie. Von außen betrachtet ist das die eindrucksvollste Figur der ganzen Wertung.
 
-Wir machen **Variante 1: Schwenkung mit Normalschritt in der Außenreihe.**
+Wir machen **Variante 1**: Der Stabführer wendet zuerst und geht durch die Reihen.
 
-> **Kein Kommando.** Der Tambourstab zeigt die Richtung an.
-
----
-
-## Drei Dinge, die immer gelten
-
-- Die einzelnen Linien marschieren **gerade bis zur Schwenkungslinie**
-- Die Reihen rücken **nicht nach außen**
-- Der **Schwenkungspunkt** wird nicht außer Acht gelassen
-
-Das klingt banal, ist aber der ganze Unterschied zwischen einer sauberen Kurve und einem Knäuel.
+> **Kein Kommando.** Der Stabführer leitet ein, die Große Trommel beendet.
 
 ---
 
-## Das Zeichen des Stabführers
+## Voraussetzung: breite Formation
 
-| Dauer | Was der Stab macht |
+**Vor der Großen Wende muss die breite Formation eingenommen sein.**
+
+Der Reihenabstand soll **nicht mehr als 1,6 m** betragen. Wird er größer, müssen die Flügelreihen beim Wenden zu weit ausschreiten — und die Figur zerfällt.
+
+![Ausgangsformation vor der Großen Wende](img/05-ausgangsformation.png)
+
+---
+
+## 1 · Der Stabführer wendet
+
+Der Stabführer wendet **zuerst** und geht am **Mittelmann (Reihe 3) rechts vorbei** zwischen die Reihen 2 und 3.
+
+**Der Kapellmeister folgt ihm.**
+
+![Der Stabführer wendet und geht durch](img/05-stabfuehrer-wendet.png)
+
+Geht der Stabführer durch die Reihen, nimmt er eine vorher **abgesprochene Stabhaltung** ein, die das Tragen der Instrumente nicht stört.
+
+---
+
+## 2 · Die Marketenderinnen
+
+Die Marketenderinnen vor den Reihen **1, 2, 4 und 5** gehen in die angegebene Richtung.
+
+![Weg der Marketenderinnen](img/05-marketenderinnen.png)
+
+---
+
+## 3 · Die erste Linie startet
+
+> ### Die erste Linie beginnt, sobald der Stabführer auf **gleicher Höhe** ist.
+
+Alle Musiker nehmen den vorgegebenen Weg. Dabei ist stets auf die korrekte **Seitenrichtung** zu achten — genau daran erkennt die Jury eine geübte Kapelle.
+
+![Die erste Linie beginnt zu wenden](img/05-erste-linie.png)
+
+---
+
+## 4 · Wer wie tritt
+
+> ### Reihen 1, 2, 3 und 4 treten **kürzer**. Reihe 5 marschiert im **normalen Schritt**.
+
+Reihe 5 läuft den Außenradius der Kurve und hat damit den längsten Weg. Sie ist das Maß, nach dem sich alle anderen richten.
+
+Zum kurzen Schritt: siehe [Kapitel 4](04-abfallen-und-aufmarschieren.md). Tempo bleibt gleich, nur die Schrittlänge wird kürzer.
+
+---
+
+## 5 · Zurück in den Normalschritt
+
+**Der kurze Schritt bleibt bis zum akustischen Zeichen** nach der Großen Wende.
+
+Die **Große Trommel** gibt das Zeichen. Aufgenommen wird der Normalschritt **im Takt danach**, von der gesamten Formation gemeinsam.
+
+![Abschluss der Großen Wende](img/05-abschluss.png)
+
+---
+
+## Der Ablauf in fünf Punkten
+
+| | |
 |---|---|
-| **1 Takt** | Stab in Grundstellung bringen |
-| **bis die Richtung erreicht ist** | Zeichen zum Schwenken in **Schulterhöhe**, Kugel bzw. Spitze zum schwenkenden Flügel |
-| **1 Takt** | Stab in Grundstellung |
-| **2 Takte** | waagrechtes Vorstoßen des Stabes in die gewünschte Richtung |
-| **1 Takt** | Stab in Grundstellung — im Spiel wird taktiert, ohne Spiel geht der Stab in „Ruht" |
-
-**Schwenkung nach rechts, mit klingendem Spiel:**
-
-![Zeichen zum Schwenken nach rechts mit Spiel](img/06-zeichen-rechts.png)
-
-**Schwenkung nach links, mit klingendem Spiel:**
-
-![Zeichen zum Schwenken nach links mit Spiel](img/06-zeichen-links.jpg)
-
-**Waagrechtes Vorstoßen in die neue Richtung:**
-
-![Waagrechtes Vorstossen des Stabes](img/06-vorstossen.png)
-
-Eine **Blickwendung zum schwenkenden Flügel** ist empfehlenswert. Sie kann von Marketenderinnen, Kapellmeister und Stabführer ausgeführt werden und hilft, die Seitenlinie zu halten. Geht der Stabführer allein, macht er keine Blickwendung.
-
----
-
-## Variante 1 — Normalschritt in der Außenreihe
-
-Mit dem Zeichen des Stabführers beginnt die Schwenkung. **Die folgenden Linien beginnen die Schwenkung an derselben Stelle.**
-
-![Schwenkung Variante 1, Beginn](img/06-schwenkung-1.png)
-
-> ### Der schwenkende Flügel geht im **Normalschritt**.
-> Alle anderen gehen mit **entsprechend verkürztem Schritt** — je weiter innen, desto kürzer.
-
-![Schwenkung Variante 1, Verlauf](img/06-schwenkung-2.png)
-
-Dabei ist auf die **Seitenrichtung** zu achten. Sie ist das, was die Kurve von außen ordentlich aussehen lässt.
-
-![Schwenkung Variante 1, Abschluss](img/06-schwenkung-3.png)
-
-**Am Ende der Schwenkung** gibt die Große Trommel ein akustisches Zeichen zur Aufnahme des vollen Schrittes.
-
-> Diese Variante eignet sich besonders bei Schwenkungen mit **kleinem Innenradius**.
-
----
-
-## Wer bin ich?
-
-| Position | Schritt |
-|---|---|
-| **Schwenkender Flügel** (außen) | Normalschritt |
-| **Mittlere Reihen** | leicht verkürzt |
-| **Innerer Flügel** | am stärksten verkürzt |
-
-Der Grundsatz: **Je kürzer der Weg, desto kürzer der Schritt.** Das Tempo bleibt für alle gleich — nur die Schrittlänge ändert sich.
+| **1** | Breite Formation, max. 1,6 m Reihenabstand |
+| **2** | Stabführer wendet, geht rechts am Mittelmann vorbei zwischen Reihe 2 und 3 |
+| **3** | Erste Linie startet, sobald der Stabführer auf gleicher Höhe ist |
+| **4** | Reihen 1–4 kurzer Schritt · Reihe 5 normaler Schritt |
+| **5** | Akustisches Zeichen der Großen Trommel → im Takt danach alle im Normalschritt |
 
 ---
 
 ## Die häufigsten Fehler
 
-- Zu früh einbiegen, statt gerade bis zur Schwenkungslinie zu marschieren
-- Die eigene Linie beginnt die Schwenkung **nicht an derselben Stelle** wie die vorige
-- Nach außen rücken — die Formation wird breiter und die Kurve unsauber
-- Der äußere Flügel verkürzt mit → die Kapelle bremst sich selbst aus
-- Der innere Flügel geht zu lang → die Reihe verbiegt sich
-- Nach der Schwenkung nicht auf das akustische Zeichen der Großen Trommel warten
-- Seitenrichtung verlieren
+- Die Große Wende ohne **breite Formation** beginnen
+- Reihenabstand über 1,6 m → die Flügelreihen kommen nicht mit
+- **Reihe 5 kurz treten lassen** — sie geht normal
+- Zu früh starten, statt auf den Stabführer auf gleicher Höhe zu warten
+- Den kurzen Schritt vor dem akustischen Zeichen aufgeben
+- Nach dem Zeichen sofort umschalten statt im Takt danach
+- Die Seitenrichtung vernachlässigen
 
-> **Der Test:** Nach der Schwenkung muss die Formation genauso aussehen wie davor. Wenn sie breiter oder schief ist, war es keine Schwenkung, sondern eine Kurve nach Gefühl.
+> **Der Test:** Von der Seite betrachtet müssen die Linien sauber und gleichmäßig durcheinandergehen. Wenn eine Linie ausschert oder zu spät startet, sieht man es sofort.
 
 ---
 
-*Der ÖBV kennt auch eine Variante 2 mit Normalschritt in der Mittelreihe. Wir machen Variante 1.*
+*Der ÖBV kennt für die Große Wende noch eine zweite Variante mit festen Taktzahlen. Wir machen Variante 1.*
 
 *Grafiken: Österreichischer Blasmusikverband, „Musik in Bewegung" —*
-*https://wiki.blasmusik.at/display/MIB/1.+Schwenkung+der+Musikkapelle*
+*https://wiki.blasmusik.at/pages/viewpage.action?pageId=9601953*
 
 ---
 
-[← Kapitel 5: Die Große Wende](05-die-grosse-wende.md) · [Übersicht](README.md) · [Kapitel 7: Stehenbleiben und Beendigung →](07-stehenbleiben-und-beendigung.md)
+[← Kapitel 4: Abfallen und Aufmarschieren](04-abfallen-und-aufmarschieren.md) · [Übersicht](README.md) · [Kapitel 6: Die Schwenkung →](06-schwenkung.md)
